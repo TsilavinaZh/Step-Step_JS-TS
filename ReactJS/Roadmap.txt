@@ -1,0 +1,47 @@
+### **Semaine 1 : Fondations de React**
+
+* **Installation et configuration** : Utilisation de Vite ou Create React App.
+* **JSX** : Syntaxe et intégration avec JavaScript.
+* **Composants fonctionnels** : Création et utilisation.
+* **Props et state** : Gestion des données et interactions.
+* **Rendu conditionnel et listes** : Affichage dynamique des éléments
+
+### **Semaine 2 : Hooks fondamentaux**
+
+* **useState** : Gestion de l'état local.
+* **useEffect** : Effets secondaires et cycle de vie des composants.
+* **Gestion des événements** : Interaction utilisateur.
+* **Formulaires** : Création et gestion des entrées utilisateur.
+
+### **Semaine 3 : Architecture et bonnes pratiques**
+
+* **Structure des dossiers** : Organisation du projet.
+* **Réutilisation des composants** : Création de composants modulaires.
+* **Composition vs héritage** : Approches de structuration.
+* **Gestion des erreurs** : Utilisation des Error Boundaries.
+
+### **Semaine 4 : Hooks avancés et logique personnalisée**
+
+* **useRef, useMemo, useCallback** : Optimisation des performances.
+* **useReducer** : Gestion d'états complexes.
+* **Custom Hooks** : Création de hooks personnalisés pour la réutilisabilité.
+
+### **Semaine 5 : Écosystème React**
+
+* **React Router** : Navigation et routage.
+* **Gestion de l'état global** : Context API, Redux, Zustand.
+* **Requêtes HTTP** : Utilisation de Fetch, Axios, TanStack Query.
+
+### **Semaine 6 : Styling et composants UI**
+
+* **CSS Modules, Styled Components, Tailwind CSS** : Techniques de stylisation.
+* **Bibliothèques UI** : Chakra UI, Material UI, Ant Design.
+* **Accessibilité (a11y)** : Pratiques pour rendre l'application accessible
+
+### **Semaine 7 : Tests et performances**
+
+* **Tests unitaires et d'intégration** : Jest, React Testing Library, Cypress.
+* **Optimisation des performances** : Lazy loading, code splitting, Suspense.
+* **Analyse des performances** : Utilisation de Profiler.([GitHub][2], [techmastery][4])
+
+

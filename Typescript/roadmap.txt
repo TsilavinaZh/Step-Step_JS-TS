@@ -1,0 +1,67 @@
+## 🧭 Feuille de route TypeScript 2025
+
+### 1. Introduction à TypeScript
+
+* **Installation et configuration** : Mise en place de l'environnement de développement.
+* **Comparaison TypeScript vs JavaScript** : Comprendre les différences fondamentales.
+* **Interopérabilité avec JavaScript** : Utiliser TypeScript dans des projets JavaScript existants.
+
+### 2. Types fondamentaux
+
+* **Types primitifs** : `boolean`, `number`, `string`, `void`, `undefined`, `null`.
+* **Autres types** : `any`, `object`, `unknown`, `never`.([roadmap.sh][1])
+
+### 3. Types complexes
+
+* **Objets** : Interfaces, classes, énumérations, tableaux, tuples.
+* **Combinaison de types** : Unions, intersections, alias de types.
+
+### 4. Fonctions en TypeScript
+
+* **Typage des fonctions** : Déclaration et utilisation.
+* **Surcharge de fonctions** : Définir plusieurs signatures pour une même fonction.
+
+### 5. Contrôle de type et inférence
+
+* **Type Guards / Narrowing** : `typeof`, `instanceof`, prédicats de type.
+* **Inférence et compatibilité** : Comprendre comment TypeScript déduit les types.([roadmap.sh][1])
+
+### 6. Programmation orientée objet
+
+* **Classes et interfaces** : Déclaration, héritage, polymorphisme.
+* **Modificateurs d'accès** : `public`, `private`, `protected`.
+* **Classes abstraites et surcharge de constructeurs** : Utilisation avancée des classes.
+
+### 7. Types avancés
+
+* **Types utilitaires** : `Partial`, `Pick`, `Omit`, `Readonly`, `Record`, `Exclude`, `Extract`, `NonNullable`, `Parameters`, `ReturnType`, `InstanceType`, `Awaited`.
+* **Types conditionnels et mappés** : Création de types dynamiques.
+* **Types littéraux et récursifs** : Définition de structures de données complexes.([roadmap.sh][1])
+
+### 8. Génériques
+
+* **Types génériques** : Création de composants réutilisables.
+* **Contraintes génériques** : Limiter les types acceptés.
+
+### 9. Décorateurs
+
+* **Utilisation des décorateurs** : Ajout de métadonnées aux classes et méthodes.
+
+### 10. Modules et espaces de noms
+
+* **Modules** : Importation et exportation de modules.
+* **Espaces de noms** : Organisation du code.
+* **Augmentation de modules** : Extension de modules existants.
+
+### 11. Configuration et outils
+
+* **Options du compilateur** : Configuration du fichier `tsconfig.json`.
+* **Outils de compilation** : Utilisation de `tsc`, `ts-node`, et du TS Playground.([roadmap.sh][1])
+
+### 12. Écosystème et bonnes pratiques
+
+* **Packages utiles** : Bibliothèques et outils complémentaires.
+* **Linting et formatage** : Maintenir un code propre et cohérent.
+* **Outils de build** : Automatisation des tâches de développement.
+
+---
